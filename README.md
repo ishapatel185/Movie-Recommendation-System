@@ -10,7 +10,7 @@ This project implements a content-based movie recommender system using the TMDB 
 - Efficient recommendation generation based on movie attributes.
 
 ## Dataset
-The dataset used for the movie recommender system is obtained from TMDB Movie Metadata. It contains information about various movies, including their unique identifiers, titles, overviews, genres, keywords, cast, and crew. This dataset is suitable for analyzing film data and building recommendation models.
+The dataset used for the movie recommender system is obtained from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata . It contains information about various movies, including their unique identifiers, titles, overviews, genres, keywords, cast, and crew. This dataset is suitable for analyzing film data and building recommendation models.
 
 
 ## User Interface
